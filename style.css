@@ -1,0 +1,10 @@
+p{
+    color: greenyellow;
+    height: 80px;
+    text-shadow: 0px 0px 10px yellowgreen;
+    text-align: center;
+    margin: auto;
+}
+body{
+    background-color: black;
+}
